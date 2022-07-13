@@ -3,7 +3,7 @@ title: UMAC
 subtitle: 
 email: youremailaddress@gmail.com
 description: UMAC (Undergraduate Mathematics Advisor Community) are aiming to xxxxx 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: null # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
